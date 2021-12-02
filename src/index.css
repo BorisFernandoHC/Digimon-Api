@@ -1,6 +1,22 @@
 /* body margin 0 and padding 0*/
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+body { 
+    background-image:url('digimom.jpg') ;
+background-size: 400px 750px;
+  padding: 30px;
+
+}
+main {
+  text-align: center;
+}
+
+main h1 {
+  font-weight: 900;
+}
+
+main p {
+  margin: 24px 24px 24px 24px;
+  color: var(--Desaturated-blue);
+  font-weight: 500;
+  line-height: 24px;
+ 
 }
